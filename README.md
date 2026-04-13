@@ -149,6 +149,9 @@ The `<all_urls>` permission is required solely to read tab metadata (titles, URL
 - **Firefox Add-ons**: [Add to Firefox](https://addons.mozilla.org/en-US/firefox/addon/decluttr/)
 - **Support**: [support@getdecluttr.app](mailto:support@getdecluttr.app)
 - **Issues**: [GitHub Issues](https://github.com/CytSoftware/decluttr/issues)
+- **Twitter**: [@getdecluttrapp](https://x.com/getdecluttrapp)
+- **Made by**: [@tofiakoury](https://x.com/tofiakoury)
+- **Changelog**: [GitHub Releases](https://github.com/CytSoftware/decluttr/releases)
 
 ## License
 
