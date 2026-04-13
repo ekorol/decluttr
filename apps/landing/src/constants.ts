@@ -6,3 +6,6 @@ export const CHROME_STORE_URL =
   "https://chromewebstore.google.com/detail/decluttr/bnkhofimcmllfncihhhglmebplpjikaj";
 export const FIREFOX_STORE_URL =
   "https://addons.mozilla.org/en-US/firefox/addon/decluttr/";
+export const TWITTER_URL = "https://x.com/getdecluttrapp";
+export const CREATOR_TWITTER_URL = "https://x.com/tofiakoury";
+export const CHANGELOG_URL = "https://github.com/CytSoftware/decluttr/releases";
